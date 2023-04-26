@@ -1,0 +1,3 @@
+The program is written in Python language.
+
+Strong passwords are created that are random numbers and difficult to guess or brute force
